@@ -18,7 +18,7 @@
         "publishing"
     ],
     "require": {
-        "php": "^7.1",
+        "php": "^7.1 || ^8.0",
         "silverstripe/framework": "^4.6",
         "silverstripe/cms": "^4",
         "silverstripe/config": "^1",
